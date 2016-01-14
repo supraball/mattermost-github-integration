@@ -1,0 +1,11 @@
+{
+	"name": "mattermost-github-integration",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, marenz",
+	"authors": ["marenz"],
+	"dependencies": {
+        "vibe-d": ">=0.7.26"
+
+	},
+    "versions" : ["VibeJsonFieldNames", "VibeDefaultMain"]
+}

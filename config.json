@@ -1,0 +1,11 @@
+{
+	"user" : "github",
+	"mattermost_hook" : "http://example.domain/hooks/veryverysecretscret",
+	"mappings" :
+    [
+		{ "channel" : "proj1", "repo" : "devgroup/proj1" },
+		{ "channel" : "proj2", "repo" : "devgroup/proj2" },
+		{ "channel" : "proj3", "repo" : "devgroup/proj3" }
+    ]
+}
+
